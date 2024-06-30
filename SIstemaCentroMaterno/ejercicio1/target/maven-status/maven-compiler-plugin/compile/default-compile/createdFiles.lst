@@ -1,0 +1,4 @@
+Controllers\DaoRegistroPaciente.class
+Modelos\Paciente.class
+Controllers\ControllerRegistroPaciente1.class
+Conexion\CConexion.class
